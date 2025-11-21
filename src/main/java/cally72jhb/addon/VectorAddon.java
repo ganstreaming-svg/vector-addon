@@ -36,7 +36,6 @@ public class VectorAddon extends MeteorAddon {
 
         // Misc
 
-        //Modules.get().add(new AntiScreen());
         Modules.get().add(new NoCollision());
         Modules.get().add(new NoWorldBorder());
         Modules.get().add(new PacketPlace());
